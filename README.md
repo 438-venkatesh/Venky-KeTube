@@ -1,7 +1,7 @@
-# [MERN Video Streamer](https://github.com/Akshaykeenath/MERN_video_streamer) 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Akshay-brightgreen)](https://github.com/sponsors/Akshaykeenath)
+# [Venky Key-Tube](https://github.com/438-venkatesh/Venky-KeTube) 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Akshay-brightgreen)](https://github.com/sponsors/438-venkatesh)
 
-![edited home](https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/51e6c54e-ac70-45e2-9a93-da8a37cd756f)
+![edited home](https://github.com/438-venkatesh/Venky-KeTube/assets/47239801/51e6c54e-ac70-45e2-9a93-da8a37cd756f)
 
 
 **Introduction:**
@@ -31,8 +31,8 @@ Welcome to the MERN Video Streamer, a comprehensive video streaming application 
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/Akshaykeenath)
-- View [Live Demo](https://ketube.netlify.app/)
+- View [Github Repository](https://github.com/438-venkatesh/Venky-KeTube)
+- View [Live Demo](https://venky-ketube.vercel.app/)
 
 ## Table of Contents
 
@@ -115,7 +115,7 @@ Welcome to the MERN Video Streamer, a comprehensive video streaming application 
 
 ## Demo
 
-- [KeTube Live Demo](https://ketube.netlify.app/)
+- [KeTube Live Demo](https://venky-ketube.vercel.app/)
 
 ## Terminal Commands
 
@@ -145,8 +145,8 @@ If you find this project helpful or would like to support its development, consi
 
 If you have any suggestions or feedback, feel free to contact me:
 
-- **LinkedIn:** [Akshay Keenath](https://www.linkedin.com/in/akshaykeenath/)
-- **Telegram:** [Akshay Keenath](https://t.me/akshaykeenath)
+- **LinkedIn:** [Akshay Keenath](https://www.linkedin.com/in/venkatesh-ponnuru-797913279/)
+- **INATGRAM:** [Akshay Keenath](https://www.instagram.com/venky_isalwaysbest)
 
 Your support and suggestions are highly appreciated!
 
@@ -154,5 +154,5 @@ Your support and suggestions are highly appreciated!
 ##### Contact Me
 
 
- LinkedIn: <https://www.linkedin.com/in/akshaykeenath/><br>
- Telegram: <https://t.me/akshaykeenath>
+ LinkedIn: <https://www.linkedin.com/in/venkatesh-ponnuru-797913279/><br>
+ INSTAGRAM: <https://www.instagram.com/venky_isalwaysbest>
