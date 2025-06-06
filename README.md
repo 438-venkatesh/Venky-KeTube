@@ -44,73 +44,9 @@ Welcome to the MERN Video Streamer, a comprehensive video streaming application 
 - [Support and suggessions](#support-and-suggessions)
 - [Contact Me](#contact-me)
 
-## Screenshots
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; max-width: 48%;">
-    <p>Registration Page</p>
-    <img alt="screenshot1" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/95d3d6a4-9a33-4cf2-8be4-bc6310f7b9fe" style="max-width: 100%;" />
-  </div>
-  <div style="text-align: center; max-width: 48%;">
-    <p>Login Page</p>
-    <img alt="screenshot2" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/94211fc5-f48b-43bd-a5f8-91bcb55f591b" style="max-width: 100%;" />
-  </div>
-</div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; max-width: 48%;">
-    <p>Home Page - Light </p>
-    <img alt="screenshot1" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/b977af00-e58e-426f-8967-8289b4120a2d" style="max-width: 100%;" />
-  </div>
-  <div style="text-align: center; max-width: 48%;">
-    <p>Home Page - Dark</p>
-    <img alt="screenshot2" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/3a6dabab-214f-407d-86ca-749b1ee6623f" style="max-width: 100%;" />
-  </div>
-</div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; max-width: 48%;">
-    <p>Video Stream Page </p>
-    <img alt="screenshot1" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/963c0430-9c6c-4ce1-93a7-27249d9c33ca" style="max-width: 100%;" />
-  </div>
-  <div style="text-align: center; max-width: 48%;">
-    <p>Liked Videos</p>
-    <img alt="screenshot2" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/37322e15-4101-4819-aba9-645f76466c46" style="max-width: 100%;" />
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; max-width: 48%;">
-    <p>Dashboard </p>
-    <img alt="screenshot1" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/49d902be-6a74-4e77-be0d-cf2d9aeab993" style="max-width: 100%;" />
-  </div>
-  <div style="text-align: center; max-width: 48%;">
-    <p>Channel Page</p>
-    <img alt="screenshot2" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/6fb3d5e4-244a-46f3-840d-0572c03588bb" style="max-width: 100%;" />
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; max-width: 48%;">
-    <p>Video Analytics Page Views </p>
-    <img alt="screenshot1" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/69b16362-799c-45f7-baaa-5ecc624e5243" style="max-width: 100%;" />
-  </div>
-  <div style="text-align: center; max-width: 48%;">
-    <p>Video Analytics Page Likes</p>
-    <img alt="screenshot2" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/c65e024e-5203-406a-a69f-9800753e27eb" style="max-width: 100%;" />
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; max-width: 48%;">
-    <p>Video Search Resuls </p>
-    <img alt="screenshot1" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/e0137e9f-d201-467b-99a5-5f738d5611bc" style="max-width: 100%;" />
-  </div>
-  <div style="text-align: center; max-width: 48%;">
-    <p>Video Edit Page</p>
-    <img alt="screenshot2" src="https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/8e7d3f09-f1cb-4ec7-b953-f0d347b82062" style="max-width: 100%;" />
-  </div>
-</div>
 
 
 ## Demo
@@ -141,12 +77,12 @@ At present, we officially aim to support the last two versions of the following 
 
 If you find this project helpful or would like to support its development, consider becoming a sponsor on GitHub!
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Akshay-brightgreen)](https://github.com/sponsors/Akshaykeenath)
+
 
 If you have any suggestions or feedback, feel free to contact me:
 
-- **LinkedIn:** [Akshay Keenath](https://www.linkedin.com/in/venkatesh-ponnuru-797913279/)
-- **INATGRAM:** [Akshay Keenath](https://www.instagram.com/venky_isalwaysbest)
+- **LinkedIn:** [Venkatesh Ponnuru](https://www.linkedin.com/in/venkatesh-ponnuru-797913279/)
+- **Instagram:** [Venkatesh Ponnuru](https://www.instagram.com/venky_isalwaysbest)
 
 Your support and suggestions are highly appreciated!
 
@@ -155,4 +91,4 @@ Your support and suggestions are highly appreciated!
 
 
  LinkedIn: <https://www.linkedin.com/in/venkatesh-ponnuru-797913279/><br>
- INSTAGRAM: <https://www.instagram.com/venky_isalwaysbest>
+ Instagram: <https://www.instagram.com/venky_isalwaysbest>
