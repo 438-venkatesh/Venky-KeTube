@@ -1,7 +1,7 @@
 # [Venky Key-Tube](https://github.com/438-venkatesh/Venky-KeTube) 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Akshay-brightgreen)](https://github.com/sponsors/438-venkatesh)
 
-![edited home](https://github.com/438-venkatesh/Venky-KeTube/assets/47239801/51e6c54e-ac70-45e2-9a93-da8a37cd756f)
+
+![edited home](https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/51e6c54e-ac70-45e2-9a93-da8a37cd756f)
 
 
 **Introduction:**
